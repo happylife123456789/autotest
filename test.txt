@@ -3,4 +3,5 @@
 这是A分支上的内容
 这是B分支上的内容
 合并的内容
-version1a
+version1
+version2
